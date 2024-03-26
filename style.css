@@ -121,7 +121,7 @@ mr-panel {
 
 .documentation {
     background-color: var(--accent);
-    width: 10%;
+    padding: 10px 20px;
 }
 
 .example-link {
