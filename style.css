@@ -119,6 +119,11 @@ mr-panel {
     padding: 10px;
 }
 
+.documentation {
+    background-color: var(--accent);
+    width: 10%;
+}
+
 .example-link {
     font-size: 2rem;
 }
